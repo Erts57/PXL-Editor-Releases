@@ -7,3 +7,5 @@ Desktop pixel editor built with Tauri and React.
 **[Download for Windows](https://github.com/Erts57/PXL-Editor-Releases/releases/latest/download/PXL.Editor-setup.exe)**
 
 Installers are not OS code-signed. Windows SmartScreen may warn on first run; that is expected until signing is enabled.
+
+After install, the app can check for updates and restart to install newer builds from this repository (Edit → Preferences → Check for updates).
